@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LhVNyaDteBQ=",
+  "success": true,
+  "projectFilePath": "/home/sleep/Documents/GitHub/yomazari/gui/yoma/yoma.csproj",
+  "expectedPackageFiles": [
+    "/home/sleep/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.3/microsoft.aspnetcore.app.ref.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
