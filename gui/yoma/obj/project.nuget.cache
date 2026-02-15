@@ -1,17 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "9Gg7XfsWZJg=",
+  "dgSpecHash": "OXHw9/Yntkk=",
   "success": true,
-  "projectFilePath": "/home/sleep/Documents/GitHub/yomazari/gui/yoma/yoma.csproj",
+  "projectFilePath": "D:\\Keithen C\\Documents\\GitHub\\yomazari\\gui\\yoma\\yoma.csproj",
   "expectedPackageFiles": [
-    "/home/sleep/.nuget/packages/atksharp/3.24.24.117-develop/atksharp.3.24.24.117-develop.nupkg.sha512",
-    "/home/sleep/.nuget/packages/cairosharp/3.24.24.117-develop/cairosharp.3.24.24.117-develop.nupkg.sha512",
-    "/home/sleep/.nuget/packages/gdksharp/3.24.24.117-develop/gdksharp.3.24.24.117-develop.nupkg.sha512",
-    "/home/sleep/.nuget/packages/giosharp/3.24.24.117-develop/giosharp.3.24.24.117-develop.nupkg.sha512",
-    "/home/sleep/.nuget/packages/glibsharp/3.24.24.117-develop/glibsharp.3.24.24.117-develop.nupkg.sha512",
-    "/home/sleep/.nuget/packages/gtksharp/3.24.24.117-develop/gtksharp.3.24.24.117-develop.nupkg.sha512",
-    "/home/sleep/.nuget/packages/pangosharp/3.24.24.117-develop/pangosharp.3.24.24.117-develop.nupkg.sha512",
-    "/home/sleep/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.3/microsoft.aspnetcore.app.ref.10.0.3.nupkg.sha512"
+    "C:\\Users\\Keithen C\\.nuget\\packages\\atksharp\\3.24.24.117-develop\\atksharp.3.24.24.117-develop.nupkg.sha512",
+    "C:\\Users\\Keithen C\\.nuget\\packages\\cairosharp\\3.24.24.117-develop\\cairosharp.3.24.24.117-develop.nupkg.sha512",
+    "C:\\Users\\Keithen C\\.nuget\\packages\\gdksharp\\3.24.24.117-develop\\gdksharp.3.24.24.117-develop.nupkg.sha512",
+    "C:\\Users\\Keithen C\\.nuget\\packages\\giosharp\\3.24.24.117-develop\\giosharp.3.24.24.117-develop.nupkg.sha512",
+    "C:\\Users\\Keithen C\\.nuget\\packages\\glibsharp\\3.24.24.117-develop\\glibsharp.3.24.24.117-develop.nupkg.sha512",
+    "C:\\Users\\Keithen C\\.nuget\\packages\\gtksharp\\3.24.24.117-develop\\gtksharp.3.24.24.117-develop.nupkg.sha512",
+    "C:\\Users\\Keithen C\\.nuget\\packages\\pangosharp\\3.24.24.117-develop\\pangosharp.3.24.24.117-develop.nupkg.sha512"
   ],
   "logs": []
 }

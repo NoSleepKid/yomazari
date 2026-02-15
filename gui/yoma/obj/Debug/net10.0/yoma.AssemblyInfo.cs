@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("yoma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de24ac32840b4387fa5cf5597dd4545e6d7bcf5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d55b5f7e779dc3b65fc11dfcbb7ea116eaff274f")]
 [assembly: System.Reflection.AssemblyProductAttribute("yoma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("yoma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

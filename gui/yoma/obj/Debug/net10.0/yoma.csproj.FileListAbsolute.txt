@@ -22,3 +22,27 @@
 /home/sleep/Documents/GitHub/yomazari/gui/yoma/bin/Debug/net10.0/PangoSharp.dll
 /home/sleep/Documents/GitHub/yomazari/gui/yoma/obj/Debug/net10.0/yoma.csproj.AssemblyReference.cache
 /home/sleep/Documents/GitHub/yomazari/gui/yoma/obj/Debug/net10.0/yoma.csproj.Up2Date
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\bin\Debug\net10.0\yoma.exe
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\bin\Debug\net10.0\yoma.deps.json
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\bin\Debug\net10.0\yoma.runtimeconfig.json
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\bin\Debug\net10.0\yoma.dll
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\bin\Debug\net10.0\yoma.pdb
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\bin\Debug\net10.0\AtkSharp.dll
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\bin\Debug\net10.0\CairoSharp.dll
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\bin\Debug\net10.0\GdkSharp.dll
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\bin\Debug\net10.0\GioSharp.dll
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\bin\Debug\net10.0\GLibSharp.dll
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\bin\Debug\net10.0\GtkSharp.dll
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\bin\Debug\net10.0\PangoSharp.dll
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\obj\Debug\net10.0\yoma.csproj.AssemblyReference.cache
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\obj\Debug\net10.0\yoma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\obj\Debug\net10.0\yoma.AssemblyInfoInputs.cache
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\obj\Debug\net10.0\yoma.AssemblyInfo.cs
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\obj\Debug\net10.0\yoma.csproj.CoreCompileInputs.cache
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\obj\Debug\net10.0\yoma.sourcelink.json
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\obj\Debug\net10.0\yoma.csproj.Up2Date
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\obj\Debug\net10.0\yoma.dll
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\obj\Debug\net10.0\refint\yoma.dll
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\obj\Debug\net10.0\yoma.pdb
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\obj\Debug\net10.0\yoma.genruntimeconfig.cache
+D:\Keithen C\Documents\GitHub\yomazari\gui\yoma\obj\Debug\net10.0\ref\yoma.dll

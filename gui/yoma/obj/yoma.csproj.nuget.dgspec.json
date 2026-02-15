@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/sleep/Documents/GitHub/yomazari/gui/yoma/yoma.csproj": {}
+    "D:\\Keithen C\\Documents\\GitHub\\yomazari\\gui\\yoma\\yoma.csproj": {}
   },
   "projects": {
-    "/home/sleep/Documents/GitHub/yomazari/gui/yoma/yoma.csproj": {
+    "D:\\Keithen C\\Documents\\GitHub\\yomazari\\gui\\yoma\\yoma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sleep/Documents/GitHub/yomazari/gui/yoma/yoma.csproj",
+        "projectUniqueName": "D:\\Keithen C\\Documents\\GitHub\\yomazari\\gui\\yoma\\yoma.csproj",
         "projectName": "yoma",
-        "projectPath": "/home/sleep/Documents/GitHub/yomazari/gui/yoma/yoma.csproj",
-        "packagesPath": "/home/sleep/.nuget/packages/",
-        "outputPath": "/home/sleep/Documents/GitHub/yomazari/gui/yoma/obj/",
+        "projectPath": "D:\\Keithen C\\Documents\\GitHub\\yomazari\\gui\\yoma\\yoma.csproj",
+        "packagesPath": "C:\\Users\\Keithen C\\.nuget\\packages\\",
+        "outputPath": "D:\\Keithen C\\Documents\\GitHub\\yomazari\\gui\\yoma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sleep/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Keithen C\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -60,18 +60,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[10.0.3, 10.0.3]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
