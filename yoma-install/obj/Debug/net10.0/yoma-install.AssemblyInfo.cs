@@ -14,10 +14,13 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< Updated upstream:yoma-install/obj/Debug/net10.0/yoma-install.AssemblyInfo.cs
+<<<<<<< Updated upstream:yoma-install/obj/Debug/net10.0/yoma-install.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18fc1ac93a866deece0c95621d450f9cb9198ed1")]
 [assembly: System.Reflection.AssemblyProductAttribute("yoma-install")]
 [assembly: System.Reflection.AssemblyTitleAttribute("yoma-install")]
 =======
+=======
+>>>>>>> Stashed changes:gui/yoma/obj/Debug/net10.0/yoma.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d55b5f7e779dc3b65fc11dfcbb7ea116eaff274f")]
 [assembly: System.Reflection.AssemblyProductAttribute("yoma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("yoma")]
