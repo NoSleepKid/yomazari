@@ -6,11 +6,10 @@ public static class SidebarOptions
 {
     static List<string> Options = new()
     {
-        "Home",
-        "Installed",
-        "Updates",
-        "Categories",
-        "Settings"
+        "Yoma Packages",
+        "AUR Packages",
+        "Pacman Packages",
+        "Flatpak Packages",
     };
 
     public static List<string> GetOptions()
